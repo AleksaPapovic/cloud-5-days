@@ -10,13 +10,14 @@ namespace Cloud5.API.Controllers
     {
 
         private readonly IPlayerStatsService _playerStatsService;
+
         public PlayerStatsController(IPlayerStatsService playerStatsService)
         {
             _playerStatsService = playerStatsService;
         }
 
         [HttpGet("player/{playerName}")]
-        public async Task<ActionResult<PlayerStatsDto>> UploadCsvFile([FromRoute]GetPlayerStatsDto getPlayerStats)
+        public async Task<ActionResult<PlayerStatsDto>> GeneratePlayerStatsFromCsv([FromRoute]GetPlayerStatsDto getPlayerStats)
         {
             return Ok(await _playerStatsService.GeneratePlayerStatsFromCsv(getPlayerStats));
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\papov\\OneDrive\\Desktop\\cloud5\\Cloud5\\Cloud5\\Cloud5.csproj": {}
+    "C:\\Users\\papov\\OneDrive\\Desktop\\cloud-5-days\\Cloud5\\Cloud5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\papov\\OneDrive\\Desktop\\cloud5\\Cloud5\\Cloud5\\Cloud5.csproj": {
+    "C:\\Users\\papov\\OneDrive\\Desktop\\cloud-5-days\\Cloud5\\Cloud5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud5\\Cloud5\\Cloud5\\Cloud5.csproj",
+        "projectUniqueName": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud-5-days\\Cloud5\\Cloud5.csproj",
         "projectName": "Cloud5",
-        "projectPath": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud5\\Cloud5\\Cloud5\\Cloud5.csproj",
+        "projectPath": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud-5-days\\Cloud5\\Cloud5.csproj",
         "packagesPath": "C:\\Users\\papov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud5\\Cloud5\\Cloud5\\obj\\",
+        "outputPath": "C:\\Users\\papov\\OneDrive\\Desktop\\cloud-5-days\\Cloud5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\papov\\AppData\\Roaming\\NuGet\\NuGet.Config",
